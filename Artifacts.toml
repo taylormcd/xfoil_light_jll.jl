@@ -393,31 +393,31 @@ os = "windows"
     url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.1+1/xfoil_light.v0.2.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
 [[xfoil_light]]
 arch = "x86_64"
-git-tree-sha1 = "5e6621a1bfd52f0da49efae45a845b1266c05e70"
+git-tree-sha1 = "54c965e9eef74e5e5753d23944a94d408669a980"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[xfoil_light.download]]
-    sha256 = "a02237ffcfc9a76f549f3aa4811e3a3aaa8b0cca4c2b3a263675a4a1e849b6e6"
-    url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.2+0/xfoil_light.v0.2.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "a7c84a27d3e7b014525f0d17a5e290638ec4d05010ebe4850584e80992273272"
+    url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.3+0/xfoil_light.v0.2.3.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[xfoil_light]]
 arch = "x86_64"
-git-tree-sha1 = "2a23357b0960a2db29fa61f7109dcbf56855900f"
+git-tree-sha1 = "fc7cc473157c38b27b28516e37cbd1035ca6b984"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[xfoil_light.download]]
-    sha256 = "527b1749e25cb4a800e213cc5b7fdddae9d39d0f0f8aeeca576084de4b8db247"
-    url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.2+0/xfoil_light.v0.2.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "90bf9aab8b235b07c8d13828442344dd05b3b38ad38ed82b3e024fa91c325068"
+    url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.3+0/xfoil_light.v0.2.3.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[xfoil_light]]
 arch = "x86_64"
-git-tree-sha1 = "4090634e3ef1739270098cb32fff6587905cd958"
+git-tree-sha1 = "c66215903ed8a974beb7d710035643f20f2eeb78"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[xfoil_light.download]]
-    sha256 = "ceb2548f4ffce0c1bb148d7e1b53ba94092a7a18e78989662e050263aa9d40e6"
-    url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.2+0/xfoil_light.v0.2.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "66f661924788e68506e817098775ba73b12cf4f486516e26dd518a5e1aa9eb9a"
+    url = "https://github.com/taylormcd/xfoil_light_jll.jl/releases/download/xfoil_light-v0.2.3+0/xfoil_light.v0.2.3.x86_64-linux-gnu-libgfortran5.tar.gz"
