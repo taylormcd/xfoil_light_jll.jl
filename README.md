@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `xfoil_light_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/byuflowlab/xfoil_light.git (revision: `7ae90a033baf97e1fe73775ce3fd24c9ce5630d1`)
+* git repository: https://github.com/byuflowlab/xfoil_light.git (revision: `d65951c18da05060572ff35f60eed954595f3988`)
 
 ## Platforms
 
